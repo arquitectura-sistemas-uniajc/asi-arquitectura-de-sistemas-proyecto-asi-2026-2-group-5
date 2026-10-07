@@ -1,4 +1,3 @@
----
 ```mermaid
 ---
 config:
@@ -21,4 +20,3 @@ flowchart TB
     L_n4_n1_0@{ curve: linear } 
     L_n5_n1_0@{ curve: linear }
 ```
----
